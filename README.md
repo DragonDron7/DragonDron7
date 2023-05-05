@@ -1,6 +1,7 @@
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/115932313/236384061-265441dc-3d2f-4784-ae71-45fbdb6d5345.jpg" width="320"/>
+
 
 <h1>
   Hey there
